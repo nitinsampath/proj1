@@ -29,3 +29,5 @@ Got kinda stuck at random places because I think my understanding of MVC is stil
 # Extra credit: Link your Heroku deployed app
 
 https://mysterious-dusk-14747.herokuapp.com/
+
+https://github.com/nitinsampath/proj1
