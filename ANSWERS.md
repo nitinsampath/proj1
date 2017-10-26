@@ -27,3 +27,5 @@ It catches the error and renders the error when the page is reloaded.
 Got kinda stuck at random places because I think my understanding of MVC is still a little shaky.
 
 # Extra credit: Link your Heroku deployed app
+
+https://mysterious-dusk-14747.herokuapp.com/
